@@ -16,7 +16,7 @@ load goes off.
 The operations such as Transversal, Insertion, Deletion can be carried out in such a manner that it does not require much of the code compiling.
 
 The basic ADTs are:
-1-QUEUE
+1-QUEUES
 2-STACKS
 3-LINKED LIST
 4-TREE
