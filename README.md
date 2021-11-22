@@ -60,4 +60,4 @@ number of inputs. Or you can press 0 to stop the program right there.
 
 If the program does not runs then you need to check the keys used while giving your
 input, if certain other keys are used by mistake you will not be able to give input 
-or start printing
+or start printing.
