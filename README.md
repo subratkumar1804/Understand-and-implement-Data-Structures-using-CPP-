@@ -1,13 +1,13 @@
 # Understand-and-implement-Data-Structures-using-CPP-
 This project is related to the concept of Data Structures(Queues,Stacks,Trees,Linked Lists) in C++. Here in this project we will be understanding about these data structures in C++ by taking some inputs  from user and performing inserting and displaying these values using some functions of these data structures.
 
-##Software Requirements:
+##Software Requirements :
 
 1.Dev C++(Application installed on windows)
 download link of this application on windows:https://bloodshed-dev-c.en.softonic.com/
 
 ----------------------------------------
-##Purpose of this project:
+##Purpose of this project :
 
 The main purpose is help new beginners understand the concept these data structure in C++ such as insertion and display operation.
 In this program we have used some of the Abstract Data Type(ADT) in C++. 
@@ -15,7 +15,7 @@ The main purpose of using abstract data type in code is that by using abstract d
 load goes off. 
 The operations such as Transversal, Insertion, Deletion can be carried out in such a manner that it does not require much of the code compiling.
 
-The basic ADTs are:
+The basic ADTs are :
 1-QUEUES
 2-STACKS
 3-LINKED LIST
@@ -23,7 +23,7 @@ The basic ADTs are:
 these Data Structures are used in this project.
 
 ----------------------------------------
-##Functionality of the project:
+##Functionality of the project :
 
 For running the program you can use DEV-C++ IDEs.
 After running this program firstly you need to enter the inputs, for giving the input here are some keys you need to use are:
