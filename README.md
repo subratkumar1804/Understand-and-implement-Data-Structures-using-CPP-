@@ -40,7 +40,7 @@ position of the program until we start printing. No.6 can be used to exit while
 printing too, this can be used to exit the program at any position.
 
 
-Keys used while printing are:
+Keys used while printing are :
 7-Press 7 to print in order using Queue
 8-Press 8 to print in reverse order using Stack
 9-Press 9 to print in order using inorder tree traversal
@@ -56,7 +56,7 @@ This code provide you a benefit of using it again and again by giving infite
 number of inputs. Or you can press 0 to stop the program right there.
 
 ----------------------------------------
-##TROUBLESHOOTING:
+##TROUBLESHOOTING :
 
 If the program does not runs then you need to check the keys used while giving your
 input, if certain other keys are used by mistake you will not be able to give input 
