@@ -7,7 +7,7 @@ This project is related to the concept of Data Structures(Queues,Stacks,Trees,Li
 download link of this application on windows:https://bloodshed-dev-c.en.softonic.com/
 
 ----------------------------------------
-##Purpose of this project:
+##Purpose of this projec:
 
 The main purpose is help new beginners understand the concept these data structure in C++ such as insertion and display operation.
 In this program we have used some of the Abstract Data Type(ADT) in C++. 
