@@ -6,7 +6,7 @@ and then prints the result using the concept of Queues,Stacks,Linked List and Tr
 
 /*Program based on the insertion and display operation of queues,stacks,linked list and trees data structures in C++*/
 
-/*Coding*
+/*Coding*/
 
 //header files
 #include<iostream>
