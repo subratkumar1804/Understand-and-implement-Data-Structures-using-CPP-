@@ -8,7 +8,7 @@ and then prints the result using the concept of Queues,Stacks,Linked List and Tr
 
 /*Coding*/
 
-//header file
+//header files
 #include<iostream>
 #include<string.h>
 #include<stdio.h>
